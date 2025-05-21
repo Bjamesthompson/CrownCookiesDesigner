@@ -8,3 +8,4 @@ scipy
 pillow
 networkx
 lxml
+mapbox_earcut
