@@ -6,3 +6,5 @@ trimesh
 plotly
 scipy
 pillow
+networkx
+lxml
